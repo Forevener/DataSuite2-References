@@ -1,0 +1,42 @@
+# DataSuite 2 citation chains – slug <TAB> a slug it also cites. See README.md.
+method:2pl	ref:birnbaum-1968
+method:3pl	ref:birnbaum-1968
+method:3pl	ref:lord-1980	background
+method:aft	ref:kalbfleisch-prentice-2002	background
+method:aisp	ref:mokken-1971
+method:arima	ref:box-jenkins-1970
+method:auto-arima	paper:forecast
+method:autocorrelation-function	ref:box-jenkins-1970
+method:average-linkage	ref:sokal-michener-1958
+method:bca-bootstrap	ref:efron-tibshirani-1993	background
+method:benjamini-yekutieli	method:benjamini-hochberg
+method:centroid-linkage	ref:sokal-michener-1958
+method:centroid-linkage	ref:gower-1967
+method:cox-regression	ref:cox-1972
+method:cumulative-incidence	ref:kalbfleisch-prentice-2002	background
+method:geomin	ref:browne-2001	background
+method:hochberg	ref:simes-1986
+method:holt-winters	method:holt-linear-trend
+method:hommel	ref:simes-1986
+method:infit-outfit	ref:wright-masters-1982
+method:infomax-rotation	ref:browne-2001
+method:interval-censored-cox	ref:cox-1972	background
+method:interval-censored-cox	ref:wellner-1997	background
+method:irt-true-score-equating	ref:lord-1980
+method:mase	ref:hyndman-athanasopoulos-2021	background
+method:mcdonald-omega	ref:revelle-condon-2019	background
+method:mcdonald-omega	ref:zinbarg-2005
+method:median-linkage	ref:gower-1967
+method:mle-scoring	ref:birnbaum-1968
+method:mokken	ref:mokken-1971
+method:monotonicity	ref:mokken-1971	background
+method:moving-average	ref:hyndman-athanasopoulos-2021	background
+method:naive-forecast	ref:hyndman-athanasopoulos-2021
+method:percentile-bootstrap	ref:efron-tibshirani-1993	background
+method:person-separation	ref:wright-masters-1982
+method:revelle-beta	ref:zinbarg-2005
+method:split-half	ref:revelle-condon-2019	background
+method:time-varying-coefficients	ref:therneau-grambsch-2000
+method:turnbull	ref:wellner-1997
+paper:survival	ref:therneau-grambsch-2000
+# Comment to ensure the last entry gets a trailing newline – the parser only sees lines ending in \n.

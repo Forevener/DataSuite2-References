@@ -1,0 +1,390 @@
+# DataSuite 2 reference corpus – slug <TAB> reference text, sorted by slug. See README.md.
+ARTool	Kay M, Elkin L, Higgins J, Wobbrock J (2025). _ARTool: Aligned Rank Transform for Nonparametric Factorial ANOVAs_. doi:10.5281/zenodo.594511 <https://doi.org/10.5281/zenodo.594511>. R package version {version}, <https://github.com/mjskay/ARTool>.
+DescTools	Signorell A (2025). _DescTools: Tools for Descriptive Statistics_. doi:10.32614/CRAN.package.DescTools <https://doi.org/10.32614/CRAN.package.DescTools>. R package version {version}.
+FNN	Beygelzimer A, Kakadet S, Langford J, Arya S, Mount D, Li S (2024). _FNN: Fast Nearest Neighbor Search Algorithms and Applications_. doi:10.32614/CRAN.package.FNN <https://doi.org/10.32614/CRAN.package.FNN>. R package version {version}.
+GPArotation	Bernaards C, Gilbert P, Jennrich R (2026). _GPArotation: Gradient Projection Factor Rotation_. doi:10.32614/CRAN.package.GPArotation <https://doi.org/10.32614/CRAN.package.GPArotation>. R package version {version}.
+Hmisc	Harrell Jr F (2026). _Hmisc: Harrell Miscellaneous_. doi:10.32614/CRAN.package.Hmisc <https://doi.org/10.32614/CRAN.package.Hmisc>. R package version {version}.
+Icens	Gentleman R, Vandal A (2026). _Icens: NPMLE for Censored and Truncated Data_. R package version {version}, <https://bioconductor.org/packages/Icens>.
+MASS	Ripley B, Venables B (2025). _MASS: Support Functions and Datasets for Venables and Ripley's MASS_. doi:10.32614/CRAN.package.MASS <https://doi.org/10.32614/CRAN.package.MASS>. R package version {version}.
+Rcsdp	Corrada Bravo H, Borchers B (2025). _Rcsdp: R Interface to the CSDP Semidefinite Programming Library_. doi:10.32614/CRAN.package.Rcsdp <https://doi.org/10.32614/CRAN.package.Rcsdp>. R package version {version}.
+ResourceSelection	Lele SR, Keim JL, Solymos P (2023). _ResourceSelection: Resource Selection (Probability) Functions for Use-Availability Data_. doi:10.32614/CRAN.package.ResourceSelection <https://doi.org/10.32614/CRAN.package.ResourceSelection>. R package version {version}.
+WRS2	Mair P, Wilcox R (2025). _WRS2: A Collection of Robust Statistical Methods_. doi:10.32614/CRAN.package.WRS2 <https://doi.org/10.32614/CRAN.package.WRS2>. R package version {version}.
+XICOR	Holmes S, Chatterjee S (2023). _XICOR: Association Measurement Through Cross Rank Increments_. doi:10.32614/CRAN.package.XICOR <https://doi.org/10.32614/CRAN.package.XICOR>. R package version {version}.
+aricode	Chiquet J, Rigaill G, Sundqvist M (2026). _aricode: Efficient Computations of Standard Clustering Comparison Measures_. doi:10.32614/CRAN.package.aricode <https://doi.org/10.32614/CRAN.package.aricode>. R package version {version}.
+base	R Core Team (2026). _R: A Language and Environment for Statistical Computing_. R Foundation for Statistical Computing, Vienna, Austria. R version {version}. doi:10.32614/R.manuals <https://doi.org/10.32614/R.manuals>. <https://www.R-project.org/>.
+biclust	Kaiser S, Santamaria R, Khamiakova T, Sill M, Theron R, Quintales L, Leisch F, De Troyer E, Leon. S (2023). _biclust: BiCluster Algorithms_. doi:10.32614/CRAN.package.biclust <https://doi.org/10.32614/CRAN.package.biclust>. R package version {version}.
+biotools	da Silva AR (2025). _biotools: Tools for Biometry and Applied Statistics in Agricultural Science_. doi:10.32614/CRAN.package.biotools <https://doi.org/10.32614/CRAN.package.biotools>. R package version {version}.
+brunnermunzel	Ara T (2022). _brunnermunzel: (Permuted) Brunner-Munzel Test_. doi:10.32614/CRAN.package.brunnermunzel <https://doi.org/10.32614/CRAN.package.brunnermunzel>. R package version {version}.
+car	Fox J, Weisberg S, Price B (2026). _car: Companion to Applied Regression_. doi:10.32614/CRAN.package.car <https://doi.org/10.32614/CRAN.package.car>. R package version {version}.
+clinfun	Seshan V, Whiting K (2023). _clinfun: Clinical Trial Design and Data Analysis Functions_. doi:10.32614/CRAN.package.clinfun <https://doi.org/10.32614/CRAN.package.clinfun>. R package version {version}.
+cluster	Maechler M, Rousseeuw P, Struyf A, Hubert M, Hornik K (2026). _cluster: Cluster Analysis Basics and Extensions_. R package version {version}, <https://CRAN.R-project.org/package=cluster>.
+cmprsk	Gray B (2024). _cmprsk: Subdistribution Analysis of Competing Risks_. doi:10.32614/CRAN.package.cmprsk <https://doi.org/10.32614/CRAN.package.cmprsk>. R package version {version}.
+# Vendored: the version below is literal, taken from the bundle's own banner (app/import/d3.v7.min.js:1, which d3.version echoes). A D3 upgrade means editing it here – nothing resolves it at runtime.
+d3	Bostock M (2024). _D3: Data-Driven Documents_. JavaScript library version 7.9.0, <https://d3js.org>.
+dunn.test	Dinno A (2026). _dunn.test: Dunn's Test of Multiple Comparisons Using Rank Sums_. doi:10.32614/CRAN.package.dunn.test <https://doi.org/10.32614/CRAN.package.dunn.test>. R package version {version}.
+effectsize	Ben-Shachar M, Makowski D, Lüdecke D, Patil I, Wiernik B, Thériault R, Waggoner P (2026). _effectsize: Indices of Effect Size_. doi:10.32614/CRAN.package.effectsize <https://doi.org/10.32614/CRAN.package.effectsize>. R package version {version}.
+eha	Broström G (2024). _eha: Event History Analysis_. R package version {version}, <https://CRAN.R-project.org/package=eha>.
+emmeans	Lenth R, Piaskowski J (2026). _emmeans: Estimated Marginal Means, aka Least-Squares Means_. doi:10.32614/CRAN.package.emmeans <https://doi.org/10.32614/CRAN.package.emmeans>. R package version {version}.
+energy	Rizzo M, Szekely G (2024). _energy: E-Statistics: Multivariate Inference via the Energy of Data_. doi:10.32614/CRAN.package.energy <https://doi.org/10.32614/CRAN.package.energy>. R package version {version}.
+entropy	Hausser J, Strimmer K (2025). _entropy: Estimation of Entropy, Mutual Information and Related Quantities_. doi:10.32614/CRAN.package.entropy <https://doi.org/10.32614/CRAN.package.entropy>. R package version {version}.
+fabia	Hochreiter S (2026). _fabia: Factor Analysis for Bicluster Acquisition_. R package version {version}, <https://bioconductor.org/packages/fabia>.
+forecast	Hyndman R, Athanasopoulos G, Bergmeir C, Caceres G, Chhay L, O'Hara-Wild M, Petropoulos F, Razbash S, Wang E, Yasmeen F (2026). _forecast: Forecasting functions for time series and linear models_. doi:10.32614/CRAN.package.forecast <https://doi.org/10.32614/CRAN.package.forecast>. R package version {version}, <https://pkg.robjhyndman.com/forecast/>.
+glmnet	Friedman J, Hastie T, Tibshirani R, Narasimhan B, Tay K, Simon N, Yang J, Taylor J (2026). _glmnet: Lasso and Elastic-Net Regularized Generalized Linear Models_. doi:10.32614/CRAN.package.glmnet <https://doi.org/10.32614/CRAN.package.glmnet>. R package version {version}.
+grpreg	Breheny P, Miller R (2026). _grpreg: Regularization Paths for Regression Models with Grouped Covariates_. doi:10.32614/CRAN.package.grpreg <https://doi.org/10.32614/CRAN.package.grpreg>. R package version {version}.
+haven	Wickham H, Miller E, Smith D (2025). _haven: Import and Export 'SPSS', 'Stata' and 'SAS' Files_. doi:10.32614/CRAN.package.haven <https://doi.org/10.32614/CRAN.package.haven>. R package version {version}.
+icenReg	Anderson-Bergman C (2024). _icenReg: Regression Models for Interval Censored Data_. doi:10.32614/CRAN.package.icenReg <https://doi.org/10.32614/CRAN.package.icenReg>. R package version {version}.
+infotheo	Meyer PE (2022). _infotheo: Information-Theoretic Measures_. doi:10.32614/CRAN.package.infotheo <https://doi.org/10.32614/CRAN.package.infotheo>. R package version {version}.
+irr	Gamer M, Lemon J, Fellows I, Singh P (2019). _irr: Various Coefficients of Interrater Reliability and Agreement_. doi:10.32614/CRAN.package.irr <https://doi.org/10.32614/CRAN.package.irr>. R package version {version}.
+kSamples	Scholz F, Zhu A (2025). _kSamples: K-Sample Rank Tests and their Combinations_. doi:10.32614/CRAN.package.kSamples <https://doi.org/10.32614/CRAN.package.kSamples>. R package version {version}.
+lavaan	Rosseel Y, Jorgensen T, De Wilde L (2026). _lavaan: Latent Variable Analysis_. doi:10.32614/CRAN.package.lavaan <https://doi.org/10.32614/CRAN.package.lavaan>. R package version {version}.
+lme4	Bates D, Maechler M, Bolker B, Walker S, Jagan M, Ly A (2026). _lme4: Linear Mixed-Effects Models using 'Eigen' and S4_. doi:10.32614/CRAN.package.lme4 <https://doi.org/10.32614/CRAN.package.lme4>. R package version {version}.
+lmtest	Hothorn T, Zeileis A, Farebrother RW, Cummins C (2022). _lmtest: Testing Linear Regression Models_. doi:10.32614/CRAN.package.lmtest <https://doi.org/10.32614/CRAN.package.lmtest>. R package version {version}.
+mediation	Tingley D, Yamamoto T, Hirose K, Keele L, Imai K, Trinh M, Wong W (2025). _mediation: Causal Mediation Analysis_. doi:10.32614/CRAN.package.mediation <https://doi.org/10.32614/CRAN.package.mediation>. R package version {version}.
+method:2pl	Lord FM (1952). “A theory of test scores.” _Psychometric Monographs_, No. 7.
+method:4pl	Barton MA, Lord FM (1981). “An upper asymptote for the three-parameter logistic item-response model.” _ETS Research Report Series_, *1981*(1). doi:10.1002/j.2333-8504.1981.tb01255.x
+method:4pl	Loken E, Rulison KL (2010). “Estimation of a four-parameter item response theory model.” _British Journal of Mathematical and Statistical Psychology_, *63*(3), 509-525. doi:10.1348/000711009X474502
+method:aft	Wei LJ (1992). “The accelerated failure time model: a useful alternative to the Cox regression model in survival analysis.” _Statistics in Medicine_, *11*(14-15), 1871-1879. doi:10.1002/sim.4780111409
+method:aic	Akaike H (1974). “A new look at the statistical model identification.” _IEEE Transactions on Automatic Control_, *19*(6), 716-723. doi:10.1109/TAC.1974.1100705
+method:aicc	Sugiura N (1978). “Further analysts of the data by Akaike's information criterion and the finite corrections.” _Communications in Statistics - Theory and Methods_, *7*(1), 13-26. doi:10.1080/03610927808827599
+method:aicc	Hurvich CM, Tsai C (1989). “Regression and time series model selection in small samples.” _Biometrika_, *76*(2), 297-307. doi:10.1093/biomet/76.2.297
+method:aisp	Hemker BT, Sijtsma K, Molenaar IW (1995). “Selection of unidimensional scales from a multidimensional item bank in the polytomous Mokken IRT model.” _Applied Psychological Measurement_, *19*(4), 337-352. doi:10.1177/014662169501900404
+method:aisp	Straat JH, Van der Ark LA, Sijtsma K (2013). “Comparing optimization algorithms for item selection in Mokken scale analysis.” _Journal of Classification_, *30*(1), 75-99. doi:10.1007/s00357-013-9122-y
+method:anderson-darling	Anderson TW, Darling DA (1952). “Asymptotic theory of certain ‘goodness of fit’ criteria based on stochastic processes.” _The Annals of Mathematical Statistics_, *23*(2), 193-212. doi:10.1214/aoms/1177729437
+method:anderson-darling	Anderson TW, Darling DA (1954). “A test of goodness of fit.” _Journal of the American Statistical Association_, *49*(268), 765-769. doi:10.1080/01621459.1954.10501232
+method:anderson-darling	Stephens MA (1974). “EDF statistics for goodness of fit and some comparisons.” _Journal of the American Statistical Association_, *69*(347), 730-737. doi:10.1080/01621459.1974.10480196
+method:arima	Box GEP, Jenkins GM, Reinsel GC, Ljung GM (2015). _Time Series Analysis: Forecasting and Control_, 5th edition. Wiley, Hoboken.
+method:augmented-dickey-fuller	Dickey DA, Fuller WA (1979). “Distribution of the estimators for autoregressive time series with a unit root.” _Journal of the American Statistical Association_, *74*(366), 427-431. doi:10.1080/01621459.1979.10482531
+method:augmented-dickey-fuller	Said SE, Dickey DA (1984). “Testing for unit roots in autoregressive-moving average models of unknown order.” _Biometrika_, *71*(3), 599-607. doi:10.1093/biomet/71.3.599
+method:autocorrelation-function	Bartlett MS (1946). “On the theoretical specification and sampling properties of autocorrelated time-series.” _Supplement to the Journal of the Royal Statistical Society_, *8*(1), 27-41. doi:10.2307/2983611
+method:average-variance-extracted	Fornell C, Larcker DF (1981). “Evaluating structural equation models with unobservable variables and measurement error.” _Journal of Marketing Research_, *18*(1), 39-50. doi:10.1177/002224378101800104
+method:bai-perron	Bai J, Perron P (1998). “Estimating and testing linear models with multiple structural changes.” _Econometrica_, *66*(1), 47-78. doi:10.2307/2998540
+method:bai-perron	Bai J, Perron P (2003). “Computation and analysis of multiple structural change models.” _Journal of Applied Econometrics_, *18*(1), 1-22. doi:10.1002/jae.659
+method:bar-chart	Playfair W (1786). _The Commercial and Political Atlas_. Debrett, London.
+method:bca-bootstrap	Efron B (1987). “Better bootstrap confidence intervals.” _Journal of the American Statistical Association_, *82*(397), 171-185. doi:10.1080/01621459.1987.10478410
+method:benjamini-hochberg	Benjamini Y, Hochberg Y (1995). “Controlling the false discovery rate: a practical and powerful approach to multiple testing.” _Journal of the Royal Statistical Society. Series B (Methodological)_, *57*(1), 289-300. doi:10.1111/j.2517-6161.1995.tb02031.x
+method:benjamini-yekutieli	Benjamini Y, Yekutieli D (2001). “The control of the false discovery rate in multiple testing under dependency.” _The Annals of Statistics_, *29*(4), 1165-1188. doi:10.1214/aos/1013699998
+method:bentler-invariant	Bentler PM (1977). “Factor simplicity index and transformations.” _Psychometrika_, *42*(2), 277-295. doi:10.1007/BF02294054
+method:bic	Schwarz G (1978). “Estimating the dimension of a model.” _The Annals of Statistics_, *6*(2), 461-464. doi:10.1214/aos/1176344136
+method:bifactor-rotation	Jennrich RI, Bentler PM (2011). “Exploratory bi-factor analysis.” _Psychometrika_, *76*(4), 537-549. doi:10.1007/s11336-011-9218-4
+method:bifactor-rotation	Jennrich RI, Bentler PM (2012). “Exploratory bi-factor analysis: the oblique case.” _Psychometrika_, *77*(3), 442-454. doi:10.1007/s11336-012-9269-1
+method:bimax	Prelić A, Bleuler S, Zimmermann P, Wille A, Bühlmann P, Gruissem W, Hennig L, Thiele L, Zitzler E (2006). “A systematic comparison and evaluation of biclustering methods for gene expression data.” _Bioinformatics_, *22*(9), 1122-1129. doi:10.1093/bioinformatics/btl060
+method:bock-lieberman	Bock RD, Lieberman M (1970). “Fitting a response model for n dichotomously scored items.” _Psychometrika_, *35*(2), 179-197. doi:10.1007/BF02291262
+method:bonett-sd-interval	Bonett DG (2006). “Approximate confidence interval for standard deviation of nonnormal distributions.” _Computational Statistics & Data Analysis_, *50*(3), 775-782. doi:10.1016/j.csda.2004.10.003
+method:bonferroni	Dunn OJ (1961). “Multiple comparisons among means.” _Journal of the American Statistical Association_, *56*(293), 52-64. doi:10.1080/01621459.1961.10482090
+method:box-cox	Box GEP, Cox DR (1964). “An analysis of transformations.” _Journal of the Royal Statistical Society. Series B (Methodological)_, *26*(2), 211-252. doi:10.1111/j.2517-6161.1964.tb00553.x
+method:boxplot-notch	McGill R, Tukey JW, Larsen WA (1978). “Variations of box plots.” _The American Statistician_, *32*(1), 12-16. doi:10.1080/00031305.1978.10479236
+method:breslow-ties	Breslow N (1974). “Covariance analysis of censored survival data.” _Biometrics_, *30*(1), 89-99. doi:10.2307/2529620
+method:calinski-harabasz	Caliński T, Harabasz J (1974). “A dendrite method for cluster analysis.” _Communications in Statistics_, *3*(1), 1-27. doi:10.1080/03610927408827101
+method:careless-responding	Johnson JA (2005). “Ascertaining the validity of individual protocols from web-based personality inventories.” _Journal of Research in Personality_, *39*(1), 103-129. doi:10.1016/j.jrp.2004.09.009
+method:careless-responding	Meade AW, Craig SB (2012). “Identifying careless responses in survey data.” _Psychological Methods_, *17*(3), 437-455. doi:10.1037/a0028085
+method:careless-responding	Curran PG (2016). “Methods for the detection of carelessly invalid responses in survey data.” _Journal of Experimental Social Psychology_, *66*, 4-19. doi:10.1016/j.jesp.2015.07.006
+method:careless-responding	Dunn AM, Heggestad ED, Shanock LR, Theilgard N (2018). “Intra-individual response variability as an indicator of insufficient effort responding: Comparison to other indicators and relationships with individual differences.” _Journal of Business and Psychology_, *33*(1), 105-121. doi:10.1007/s10869-016-9479-0
+method:cause-specific-hazards	Prentice RL, Kalbfleisch JD, Peterson AV, Flournoy N, Farewell VT, Breslow NE (1978). “The analysis of failure times in the presence of competing risks.” _Biometrics_, *34*(4), 541-554. doi:10.2307/2530374
+method:cfi	Bentler PM (1990). “Comparative fit indexes in structural models.” _Psychological Bulletin_, *107*(2), 238-246. doi:10.1037/0033-2909.107.2.238
+method:cheng-church	Cheng Y, Church GM (2000). “Biclustering of expression data.” In _Proceedings of the Eighth International Conference on Intelligent Systems for Molecular Biology_, 93-103. AAAI Press, Menlo Park.
+method:classical-decomposition	Persons WM (1919). “Indices of business conditions.” _The Review of Economics and Statistics_, *1*(1), 5-107.
+method:classical-decomposition	Kendall MG, Stuart A, Ord JK (1983). _The Advanced Theory of Statistics, Volume 3: Design and Analysis, and Time-Series_, 4th edition. Griffin, London.
+method:cluster-stability	Hennig C (2007). “Cluster-wise assessment of cluster stability.” _Computational Statistics & Data Analysis_, *52*(1), 258-271. doi:10.1016/j.csda.2006.11.025
+method:cluster-stability	Hennig C (2008). “Dissolution point and isolation robustness: robustness criteria for general cluster analysis methods.” _Journal of Multivariate Analysis_, *99*(6), 1154-1176. doi:10.1016/j.jmva.2007.07.002
+method:coefficient-h	Hancock GR, Mueller RO (2001). “Rethinking construct reliability within latent variable systems.” In Cudeck R, du Toit S, Sörbom D (eds.), _Structural Equation Modeling: Present and Future_, 195-216. Scientific Software International, Lincolnwood.
+method:cohen-kappa	Cohen J (1960). “A coefficient of agreement for nominal scales.” _Educational and Psychological Measurement_, *20*(1), 37-46. doi:10.1177/001316446002000104
+method:cohen-kappa	Cohen J (1968). “Weighted kappa: nominal scale agreement with provision for scaled disagreement or partial credit.” _Psychological Bulletin_, *70*(4), 213-220. doi:10.1037/h0026256
+method:cohen-kappa	Fleiss JL, Cohen J, Everitt BS (1969). “Large sample standard errors of kappa and weighted kappa.” _Psychological Bulletin_, *72*(5), 323-327. doi:10.1037/h0028106
+method:complete-linkage	Sørensen T (1948). “A method of establishing groups of equal amplitude in plant sociology based on similarity of species content and its application to analyses of the vegetation on Danish commons.” _Biologiske Skrifter_, *5*(4), 1-34.
+method:composite-reliability	Jöreskog KG (1971). “Statistical analysis of sets of congeneric tests.” _Psychometrika_, *36*(2), 109-133. doi:10.1007/BF02291393
+method:composite-reliability	Raykov T (1997). “Estimation of composite reliability for congeneric measures.” _Applied Psychological Measurement_, *21*(2), 173-184. doi:10.1177/01466216970212006
+method:concordance	Harrell FE, Califf RM, Pryor DB, Lee KL, Rosati RA (1982). “Evaluating the yield of medical tests.” _JAMA_, *247*(18), 2543-2546. doi:10.1001/jama.1982.03320430047030
+method:corrected-item-total-correlation	Cureton EE (1966). “Corrected item-test correlations.” _Psychometrika_, *31*(1), 93-96. doi:10.1007/BF02289461
+method:cox-regression	Cox DR (1975). “Partial likelihood.” _Biometrika_, *62*(2), 269-276. doi:10.1093/biomet/62.2.269
+method:cox-regression	Andersen PK, Gill RD (1982). “Cox's regression model for counting processes: a large sample study.” _The Annals of Statistics_, *10*(4), 1100-1120. doi:10.1214/aos/1176345976	background
+method:cox-zph	Schoenfeld D (1982). “Partial residuals for the proportional hazards regression model.” _Biometrika_, *69*(1), 239-241. doi:10.1093/biomet/69.1.239
+method:cox-zph	Grambsch PM, Therneau TM (1994). “Proportional hazards tests and diagnostics based on weighted residuals.” _Biometrika_, *81*(3), 515-526. doi:10.1093/biomet/81.3.515
+method:cramer-von-mises	Cramér H (1928). “On the composition of elementary errors.” _Scandinavian Actuarial Journal_, *1928*(1), 13-74. doi:10.1080/03461238.1928.10416862
+method:cramer-von-mises	von Mises RE (1928). _Wahrscheinlichkeit, Statistik und Wahrheit_. Julius Springer, Vienna.
+method:cramer-von-mises	Stephens MA (1970). “Use of the Kolmogorov-Smirnov, Cramér-von Mises and related statistics without extensive tables.” _Journal of the Royal Statistical Society. Series B (Methodological)_, *32*(1), 115-122. doi:10.1111/j.2517-6161.1970.tb00821.x
+method:crawford-ferguson	Crawford CB, Ferguson GA (1970). “A general rotation criterion and its use in orthogonal rotation.” _Psychometrika_, *35*(3), 321-332. doi:10.1007/BF02310792
+method:cronbach-alpha	Kuder GF, Richardson MW (1937). “The theory of the estimation of test reliability.” _Psychometrika_, *2*(3), 151-160. doi:10.1007/BF02288391
+method:cronbach-alpha	Cronbach LJ (1951). “Coefficient alpha and the internal structure of tests.” _Psychometrika_, *16*(3), 297-334. doi:10.1007/BF02310555
+method:cronbach-alpha	Feldt LS (1965). “The approximate sampling distribution of Kuder-Richardson reliability coefficient twenty.” _Psychometrika_, *30*(3), 357-370. doi:10.1007/BF02289499
+method:cronbach-alpha	van Zyl JM, Neudecker H, Nel DG (2000). “On the distribution of the maximum likelihood estimator of Cronbach's alpha.” _Psychometrika_, *65*(3), 271-280. doi:10.1007/BF02296146
+method:cumulative-incidence	Aalen O (1978). “Nonparametric estimation of partial transition probabilities in multiple decrement models.” _The Annals of Statistics_, *6*(3), 534-545. doi:10.1214/aos/1176344198
+method:dagostino-pearson	D'Agostino RB (1970). “Transformation to normality of the null distribution of g₁.” _Biometrika_, *57*(3), 679-681. doi:10.1093/biomet/57.3.679
+method:dagostino-pearson	D'Agostino R, Pearson ES (1973). “Tests for departure from normality. Empirical results for the distributions of b₂ and √b₁.” _Biometrika_, *60*(3), 613-622. doi:10.1093/biomet/60.3.613
+method:dagostino-pearson	Anscombe FJ, Glynn WJ (1983). “Distribution of the kurtosis statistic b₂ for normal samples.” _Biometrika_, *70*(1), 227-234. doi:10.1093/biomet/70.1.227
+method:damped-trend	Gardner ES, McKenzie E (1985). “Forecasting trends in time series.” _Management Science_, *31*(10), 1237-1246. doi:10.1287/mnsc.31.10.1237
+method:davies-bouldin	Davies DL, Bouldin DW (1979). “A cluster separation measure.” _IEEE Transactions on Pattern Analysis and Machine Intelligence_, *PAMI-1*(2), 224-227. doi:10.1109/TPAMI.1979.4766909
+method:dfbeta	Cain KC, Lange NT (1984). “Approximate case influence for the proportional hazards regression model with censored data.” _Biometrics_, *40*(2), 493-499. doi:10.2307/2531402
+method:dif-effect-size	Meade AW (2010). “A taxonomy of effect size measures for the differential functioning of items and scales.” _Journal of Applied Psychology_, *95*(4), 728-743. doi:10.1037/a0018966
+method:dif-likelihood-ratio	Thissen D, Steinberg L, Wainer H (1993). “Detection of differential item functioning using the parameters of item response models.” In Holland PW, Wainer H (eds.), _Differential Item Functioning_, 67-113. Lawrence Erlbaum Associates, Hillsdale.
+method:dif-likelihood-ratio	Woods CM (2009). “Empirical selection of anchors for tests of differential item functioning.” _Applied Psychological Measurement_, *33*(1), 42-57. doi:10.1177/0146621607314044
+method:dkw-inequality	Dvoretzky A, Kiefer J, Wolfowitz J (1956). “Asymptotic minimax character of the sample distribution function and of the classical multinomial estimator.” _The Annals of Mathematical Statistics_, *27*(3), 642-669. doi:10.1214/aoms/1177728174
+method:dkw-inequality	Massart P (1990). “The tight constant in the Dvoretzky-Kiefer-Wolfowitz inequality.” _The Annals of Probability_, *18*(3), 1269-1283. doi:10.1214/aop/1176990746
+method:duda-hart	Duda RO, Hart PE (1973). _Pattern Classification and Scene Analysis_. John Wiley & Sons, New York.
+method:dunn-index	Dunn JC (1974). “Well-separated clusters and optimal fuzzy partitions.” _Journal of Cybernetics_, *4*(1), 95-104. doi:10.1080/01969727408546059
+method:eap	Bock RD, Mislevy RJ (1982). “Adaptive EAP estimation of ability in a microcomputer environment.” _Applied Psychological Measurement_, *6*(4), 431-444. doi:10.1177/014662168200600405
+method:eap-sum	Thissen D, Pommerich M, Billeaud K, Williams VSL (1995). “Item response theory for scores on tests including polytomous items with ordered responses.” _Applied Psychological Measurement_, *19*(1), 39-49. doi:10.1177/014662169501900105
+method:efron-ties	Efron B (1977). “The efficiency of Cox's likelihood function for censored data.” _Journal of the American Statistical Association_, *72*(359), 557-565. doi:10.1080/01621459.1977.10480613
+method:ets	Hyndman RJ, Koehler AB, Snyder RD, Grose S (2002). “A state space framework for automatic forecasting using exponential smoothing methods.” _International Journal of Forecasting_, *18*(3), 439-454. doi:10.1016/S0169-2070(01)00110-8
+method:ets	Hyndman RJ, Koehler AB, Ord JK, Snyder RD (2008). _Forecasting with Exponential Smoothing: The State Space Approach_. Springer, Berlin. doi:10.1007/978-3-540-71918-2
+method:fabia	Hochreiter S, Bodenhofer U, Heusel M, Mayr A, Mitterecker A, Kasim A, Khamiakova T, Van Sanden S, Lin D, Talloen W, Bijnens L, Göhlmann HWH, Shkedy Z, Clevert D (2010). “FABIA: Factor Analysis for Bicluster Acquisition.” _Bioinformatics_, *26*(12), 1520-1527. doi:10.1093/bioinformatics/btq227
+method:fine-gray	Fine JP, Gray RJ (1999). “A proportional hazards model for the subdistribution of a competing risk.” _Journal of the American Statistical Association_, *94*(446), 496-509. doi:10.1080/01621459.1999.10474144
+method:fisher-g-test	Fisher RA (1929). “Tests of significance in harmonic analysis.” _Proceedings of the Royal Society of London. Series A_, *125*(796), 54-59. doi:10.1098/rspa.1929.0151
+method:fleiss-kappa	Fleiss JL (1971). “Measuring nominal scale agreement among many raters.” _Psychological Bulletin_, *76*(5), 378-382. doi:10.1037/h0031619
+method:fleiss-kappa	Conger AJ (1980). “Integration and generalization of kappas for multiple raters.” _Psychological Bulletin_, *88*(2), 322-328. doi:10.1037/0033-2909.88.2.322
+method:fleming-harrington	Fleming TR, Harrington DP (1984). “Nonparametric estimation of the survival distribution in censored data.” _Communications in Statistics - Theory and Methods_, *13*(20), 2469-2486. doi:10.1080/03610928408828837
+method:freedman-diaconis	Freedman D, Diaconis P (1981). “On the histogram as a density estimator: L₂ theory.” _Zeitschrift für Wahrscheinlichkeitstheorie und Verwandte Gebiete_, *57*(4), 453-476. doi:10.1007/BF01025868
+method:g-rho	Harrington DP, Fleming TR (1982). “A class of rank test procedures for censored survival data.” _Biometrika_, *69*(3), 553-566. doi:10.1093/biomet/69.3.553
+method:gap-statistic	Tibshirani R, Walther G, Hastie T (2001). “Estimating the number of clusters in a data set via the gap statistic.” _Journal of the Royal Statistical Society: Series B (Statistical Methodology)_, *63*(2), 411-423. doi:10.1111/1467-9868.00293
+method:generalized-rating-scale	Muraki E (1990). “Fitting a polytomous item response model to Likert-type data.” _Applied Psychological Measurement_, *14*(1), 59-71. doi:10.1177/014662169001400106
+method:geomin	Yates A (1987). _Multivariate Exploratory Data Analysis: A Perspective on Exploratory Factor Analysis_. State University of New York Press, Albany.
+method:ggum	Roberts JS, Donoghue JR, Laughlin JE (2000). “A general item response theory model for unfolding unidimensional polytomous responses.” _Applied Psychological Measurement_, *24*(1), 3-32. doi:10.1177/01466216000241001
+method:gini-simpson	Simpson EH (1949). “Measurement of diversity.” _Nature_, *163*(4148), 688. doi:10.1038/163688a0
+method:gompertz	Gompertz B (1825). “On the nature of the function expressive of the law of human mortality, and on a new mode of determining the value of life contingencies.” _Philosophical Transactions of the Royal Society of London_, *115*, 513-583. doi:10.1098/rstl.1825.0026
+method:gpcm	Masters GN (1982). “A Rasch model for partial credit scoring.” _Psychometrika_, *47*(2), 149-174. doi:10.1007/BF02296272
+method:gpcm	Muraki E (1992). “A generalized partial credit model: application of an EM algorithm.” _Applied Psychological Measurement_, *16*(2), 159-176. doi:10.1177/014662169201600206
+method:graded-response	Samejima F (1969). “Estimation of latent ability using a response pattern of graded scores.” _Psychometrika_, *34*(S1), 1-97. doi:10.1007/BF03372160
+method:gray-test	Gray RJ (1988). “A class of K-sample tests for comparing the cumulative incidence of a competing risk.” _The Annals of Statistics_, *16*(3), 1141-1154. doi:10.1214/aos/1176350951
+method:greatest-lower-bound	Bentler PM (1972). “A lower-bound method for the dimension-free measurement of internal consistency.” _Social Science Research_, *1*(4), 343-357. doi:10.1016/0049-089X(72)90082-8
+method:greatest-lower-bound	Ten Berge JMF, Sočan G (2004). “The greatest lower bound to the reliability of a test and the hypothesis of unidimensionality.” _Psychometrika_, *69*(4), 613-625. doi:10.1007/BF02289858
+method:greatest-lower-bound	Revelle W, Zinbarg RE (2009). “Coefficients alpha, beta, omega, and the glb: comments on Sijtsma.” _Psychometrika_, *74*(1), 145-154. doi:10.1007/s11336-008-9102-z
+method:guerrero-lambda	Guerrero VM (1993). “Time-series analysis supported by power transformations.” _Journal of Forecasting_, *12*(1), 37-48. doi:10.1002/for.3980120104
+method:guttman-lambda	Guttman L (1945). “A basis for analyzing test-retest reliability.” _Psychometrika_, *10*(4), 255-282. doi:10.1007/BF02288892
+method:guttman-lambda	Ten Berge JMF, Zegers FE (1978). “A series of lower bounds to the reliability of a test.” _Psychometrika_, *43*(4), 575-579. doi:10.1007/BF02293815
+method:hochberg	Hochberg Y (1988). “A sharper Bonferroni procedure for multiple tests of significance.” _Biometrika_, *75*(4), 800-802. doi:10.1093/biomet/75.4.800
+method:hodges-lehmann	Wilcoxon F (1945). “Individual comparisons by ranking methods.” _Biometrics Bulletin_, *1*(6), 80-83. doi:10.2307/3001968
+method:hodges-lehmann	Hodges JL, Lehmann EL (1963). “Estimates of location based on rank tests.” _The Annals of Mathematical Statistics_, *34*(2), 598-611. doi:10.1214/aoms/1177704172
+method:holm	Holm S (1979). “A simple sequentially rejective multiple test procedure.” _Scandinavian Journal of Statistics_, *6*(2), 65-70.
+method:holt-linear-trend	Holt CC (2004). “Forecasting seasonals and trends by exponentially weighted moving averages.” _International Journal of Forecasting_, *20*(1), 5-10. doi:10.1016/j.ijforecast.2003.09.015
+method:holt-winters	Winters PR (1960). “Forecasting sales by exponentially weighted moving averages.” _Management Science_, *6*(3), 324-342. doi:10.1287/mnsc.6.3.324
+method:hommel	Hommel G (1988). “A stagewise rejective multiple test procedure based on a modified Bonferroni test.” _Biometrika_, *75*(2), 383-386. doi:10.1093/biomet/75.2.383
+method:hopkins-statistic	Hopkins B, Skellam JG (1954). “A new method for determining the type of distribution of plant individuals.” _Annals of Botany_, *18*(2), 213-227. doi:10.1093/oxfordjournals.aob.a083391
+method:hopkins-statistic	Lawson RG, Jurs PC (1990). “New index for clustering tendency and its application to chemical problems.” _Journal of Chemical Information and Computer Sciences_, *30*(1), 36-41. doi:10.1021/ci00065a010
+method:icc	Shrout PE, Fleiss JL (1979). “Intraclass correlations: uses in assessing rater reliability.” _Psychological Bulletin_, *86*(2), 420-428. doi:10.1037/0033-2909.86.2.420
+method:icc	McGraw KO, Wong SP (1996). “Forming inferences about some intraclass correlation coefficients.” _Psychological Methods_, *1*(1), 30-46. doi:10.1037/1082-989X.1.1.30
+method:icc	Koo TK, Li MY (2016). “A guideline of selecting and reporting intraclass correlation coefficients for reliability research.” _Journal of Chiropractic Medicine_, *15*(2), 155-163. doi:10.1016/j.jcm.2016.02.012
+method:ideal-point	Maydeu-Olivares A, Hernández A, McDonald RP (2006). “A multidimensional ideal point item response theory model for binary data.” _Multivariate Behavioral Research_, *41*(4), 445-472. doi:10.1207/s15327906mbr4104_2
+method:infit-outfit	Linacre JM (2002). “What do infit and outfit, mean-square and standardized mean?” _Rasch Measurement Transactions_, *16*(2), 878.
+method:infomax-rotation	McKeon JJ (1968). “Rotation for maximum association between factors and tests.” Unpublished manuscript, Biometric Laboratory, George Washington University, Washington, DC.
+method:interpolated-median-ci	Hettmansperger TP, Sheather SJ (1986). “Confidence intervals based on interpolated order statistics.” _Statistics & Probability Letters_, *4*(2), 75-79. doi:10.1016/0167-7152(86)90021-0
+method:interval-censored-cox	Finkelstein DM (1986). “A proportional hazards model for interval-censored failure time data.” _Biometrics_, *42*(4), 845-854. doi:10.2307/2530698
+method:interval-censored-cox	Pan W (1999). “Extending the iterative convex minorant algorithm to the Cox model for interval-censored data.” _Journal of Computational and Graphical Statistics_, *8*(1), 109-120. doi:10.1080/10618600.1999.10474804
+method:invariant-item-ordering	Sijtsma K, Junker BW (1996). “A survey of theory and methods of invariant item ordering.” _British Journal of Mathematical and Statistical Psychology_, *49*(1), 79-105. doi:10.1111/j.2044-8317.1996.tb01076.x
+method:invariant-item-ordering	Ligtvoet R, Van der Ark LA, Te Marvelde JM, Sijtsma K (2010). “Investigating an invariant item ordering for polytomously scored items.” _Educational and Psychological Measurement_, *70*(4), 578-595. doi:10.1177/0013164409355697
+method:invariant-item-ordering	Ligtvoet R, Van der Ark LA, Bergsma WP, Sijtsma K (2011). “Polytomous latent scales for the investigation of the ordering of items.” _Psychometrika_, *76*(2), 200-216. doi:10.1007/s11336-010-9199-8
+method:irt-true-score-equating	Kolen MJ, Brennan RL (2014). _Test Equating, Scaling, and Linking: Methods and Practices_, 3rd edition. Springer, New York. doi:10.1007/978-1-4939-0317-7
+method:jarque-bera	Jarque CM, Bera AK (1980). “Efficient tests for normality, homoscedasticity and serial independence of regression residuals.” _Economics Letters_, *6*(3), 255-259. doi:10.1016/0165-1765(80)90024-5
+method:jarque-bera	Jarque CM, Bera AK (1987). “A test for normality of observations and regression residuals.” _International Statistical Review_, *55*(2), 163-172. doi:10.2307/1403192
+method:k-means	Forgy EW (1965). “Cluster analysis of multivariate data: efficiency versus interpretability of classifications.” _Biometrics_, *21*(3), 768-769.
+method:k-means	MacQueen J (1967). “Some methods for classification and analysis of multivariate observations.” In _Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability, Volume 1: Statistics_, 281-297. University of California Press, Berkeley.
+method:k-means	Hartigan JA, Wong MA (1979). “Algorithm AS 136: A K-means clustering algorithm.” _Journal of the Royal Statistical Society. Series C (Applied Statistics)_, *28*(1), 100-108. doi:10.2307/2346830
+method:k-means	Lloyd SP (1982). “Least squares quantization in PCM.” _IEEE Transactions on Information Theory_, *28*(2), 129-137. doi:10.1109/TIT.1982.1056489
+method:kaplan-meier	Kaplan EL, Meier P (1958). “Nonparametric estimation from incomplete observations.” _Journal of the American Statistical Association_, *53*(282), 457-481. doi:10.1080/01621459.1958.10501452
+method:kendall-w	Kendall MG, Babington Smith B (1939). “The problem of m rankings.” _The Annals of Mathematical Statistics_, *10*(3), 275-287. doi:10.1214/aoms/1177732186
+method:kendall-w	Kendall MG (1948). _Rank Correlation Methods_. Charles Griffin & Company, London.
+method:kernel-density-estimation	Rosenblatt M (1956). “Remarks on some nonparametric estimates of a density function.” _The Annals of Mathematical Statistics_, *27*(3), 832-837. doi:10.1214/aoms/1177728190
+method:kernel-density-estimation	Parzen E (1962). “On estimation of a probability density function and mode.” _The Annals of Mathematical Statistics_, *33*(3), 1065-1076. doi:10.1214/aoms/1177704472
+method:kernel-density-estimation	Silverman BW (1986). _Density Estimation for Statistics and Data Analysis_. Chapman and Hall, London.
+method:kpss	Kwiatkowski D, Phillips PCB, Schmidt P, Shin Y (1992). “Testing the null hypothesis of stationarity against the alternative of a unit root: How sure are we that economic time series have a unit root?” _Journal of Econometrics_, *54*(1-3), 159-178. doi:10.1016/0304-4076(92)90104-Y
+method:krippendorff-alpha	Krippendorff K (1970). “Estimating the reliability, systematic error and random error of interval data.” _Educational and Psychological Measurement_, *30*(1), 61-70. doi:10.1177/001316447003000105
+method:krippendorff-alpha	Krippendorff K (2004). _Content Analysis: An Introduction to Its Methodology_, 2nd edition. Sage, Thousand Oaks.
+method:krippendorff-alpha	Hayes AF, Krippendorff K (2007). “Answering the call for a standard reliability measure for coding data.” _Communication Methods and Measures_, *1*(1), 77-89. doi:10.1080/19312450709336664
+method:landis-koch	Landis JR, Koch GG (1977). “The measurement of observer agreement for categorical data.” _Biometrics_, *33*(1), 159-174. doi:10.2307/2529310
+method:ld-x2	Chen WH, Thissen D (1997). “Local dependence indexes for item pairs using item response theory.” _Journal of Educational and Behavioral Statistics_, *22*(3), 265-289. doi:10.3102/10769986022003265
+method:ld-x2	Edwards MC, Houts CR, Cai L (2018). “A diagnostic procedure to detect departures from local independence in item response theory models.” _Psychological Methods_, *23*(1), 138-149. doi:10.1037/met0000121
+method:light-kappa	Light RJ (1971). “Measures of response agreement for qualitative data: some generalizations and alternatives.” _Psychological Bulletin_, *76*(5), 365-377. doi:10.1037/h0031643
+method:lilliefors	Lilliefors HW (1967). “On the Kolmogorov-Smirnov test for normality with mean and variance unknown.” _Journal of the American Statistical Association_, *62*(318), 399-402. doi:10.1080/01621459.1967.10482916
+method:lilliefors	Dallal GE, Wilkinson L (1986). “An analytic approximation to the distribution of Lilliefors's test statistic for normality.” _The American Statistician_, *40*(4), 294-296. doi:10.1080/00031305.1986.10475419
+method:ljung-box	Box GEP, Pierce DA (1970). “Distribution of residual autocorrelations in autoregressive-integrated moving average time series models.” _Journal of the American Statistical Association_, *65*(332), 1509-1526. doi:10.1080/01621459.1970.10481180
+method:ljung-box	Ljung GM, Box GEP (1978). “On a measure of lack of fit in time series models.” _Biometrika_, *65*(2), 297-303. doi:10.1093/biomet/65.2.297
+method:log-rank	Mantel N (1966). “Evaluation of survival data and two new rank order statistics arising in its consideration.” _Cancer Chemotherapy Reports_, *50*(3), 163-170.
+method:m2	Maydeu-Olivares A, Joe H (2005). “Limited- and full-information estimation and goodness-of-fit testing in 2ⁿ contingency tables: a unified framework.” _Journal of the American Statistical Association_, *100*(471), 1009-1020. doi:10.1198/016214504000002069
+method:m2	Maydeu-Olivares A, Joe H (2006). “Limited information goodness-of-fit testing in multidimensional contingency tables.” _Psychometrika_, *71*(4), 713-732. doi:10.1007/s11336-005-1295-9
+method:m2	Cai L, Hansen M (2013). “Limited-information goodness-of-fit testing of hierarchical item factor models.” _British Journal of Mathematical and Statistical Psychology_, *66*(2), 245-276. doi:10.1111/j.2044-8317.2012.02050.x
+method:mad-outlier-rule	Hampel FR (1974). “The influence curve and its role in robust estimation.” _Journal of the American Statistical Association_, *69*(346), 383-393. doi:10.1080/01621459.1974.10482962
+method:mad-outlier-rule	Rousseeuw PJ, Croux C (1993). “Alternatives to the median absolute deviation.” _Journal of the American Statistical Association_, *88*(424), 1273-1283. doi:10.1080/01621459.1993.10476408
+method:mad-outlier-rule	Leys C, Ley C, Klein O, Bernard P, Licata L (2013). “Detecting outliers: Do not use standard deviation around the mean, use absolute deviation around the median.” _Journal of Experimental Social Psychology_, *49*(4), 764-766. doi:10.1016/j.jesp.2013.03.013
+method:mahalanobis-distance	Mahalanobis PC (1936). “On the generalised distance in statistics.” _Proceedings of the National Institute of Sciences of India_, *2*(1), 49-55.
+method:map-scoring	Birnbaum A (1969). “Statistical theory for logistic mental test models with a prior distribution of ability.” _Journal of Mathematical Psychology_, *6*(2), 258-276. doi:10.1016/0022-2496(69)90005-4
+method:map-scoring	Mislevy RJ (1986). “Bayes modal estimation in item response models.” _Psychometrika_, *51*(2), 177-195. doi:10.1007/BF02293979
+method:marginal-reliability	Green BF, Bock RD, Humphreys LG, Linn RL, Reckase MD (1984). “Technical guidelines for assessing computerized adaptive tests.” _Journal of Educational Measurement_, *21*(4), 347-360. doi:10.1111/j.1745-3984.1984.tb01039.x
+method:martingale-residuals	Therneau TM, Grambsch PM, Fleming TR (1990). “Martingale-based residuals for survival models.” _Biometrika_, *77*(1), 147-160. doi:10.1093/biomet/77.1.147
+method:mase	Hyndman RJ, Koehler AB (2006). “Another look at measures of forecast accuracy.” _International Journal of Forecasting_, *22*(4), 679-688. doi:10.1016/j.ijforecast.2006.03.001
+method:mcdonald-omega	McDonald RP (1999). _Test Theory: A Unified Treatment_. Lawrence Erlbaum Associates, Mahwah.
+method:mcquitty-linkage	McQuitty LL (1966). “Similarity analysis by reciprocal pairs for discrete and continuous data.” _Educational and Psychological Measurement_, *26*(4), 825-831. doi:10.1177/001316446602600402
+method:median-ci	Thompson WR (1936). “On confidence ranges for the median and other expectation distributions for populations of unknown distribution form.” _The Annals of Mathematical Statistics_, *7*(3), 122-128. doi:10.1214/aoms/1177732502
+method:mhrm	Cai L (2010). “High-dimensional exploratory item factor analysis by a Metropolis-Hastings Robbins-Monro algorithm.” _Psychometrika_, *75*(1), 33-57. doi:10.1007/s11336-009-9136-x
+method:mhrm	Cai L (2010). “Metropolis-Hastings Robbins-Monro algorithm for confirmatory item factor analysis.” _Journal of Educational and Behavioral Statistics_, *35*(3), 307-335. doi:10.3102/1076998609353115
+method:minimum-covariance-determinant	Rousseeuw PJ (1984). “Least median of squares regression.” _Journal of the American Statistical Association_, *79*(388), 871-880. doi:10.1080/01621459.1984.10477105
+method:minimum-covariance-determinant	Rousseeuw PJ, Leroy AM (1987). _Robust Regression and Outlier Detection_. Wiley, New York.
+method:minimum-entropy-rotation	Jennrich RI (2004). “Rotation to simple loadings using component loss functions: the orthogonal case.” _Psychometrika_, *69*(2), 257-273. doi:10.1007/BF02295943
+method:mle-scoring	Lord FM (1983). “Unbiased estimators of ability parameters, of their variance, and of their parallel-forms reliability.” _Psychometrika_, *48*(2), 233-245. doi:10.1007/BF02294018
+method:mml-em	Dempster AP, Laird NM, Rubin DB (1977). “Maximum likelihood from incomplete data via the EM algorithm.” _Journal of the Royal Statistical Society. Series B (Methodological)_, *39*(1), 1-22. doi:10.1111/j.2517-6161.1977.tb01600.x
+method:mml-em	Bock RD, Aitkin M (1981). “Marginal maximum likelihood estimation of item parameters: application of an EM algorithm.” _Psychometrika_, *46*(4), 443-459. doi:10.1007/BF02293801
+method:modified-z-score	Iglewicz B, Hoaglin DC (1993). _How to Detect and Handle Outliers_. ASQC Quality Press, Milwaukee.
+method:mokken	Loevinger J (1948). “The technic of homogeneous tests compared with some aspects of scale analysis and factor analysis.” _Psychological Bulletin_, *45*(6), 507-529. doi:10.1037/h0055827
+method:mokken	Molenaar IW, Sijtsma K (2000). _User's Manual MSP5 for Windows_. iecProGAMMA, Groningen.
+method:mokken	Sijtsma K, Molenaar IW (2002). _Introduction to Nonparametric Item Response Theory_. Sage, Thousand Oaks, CA.
+method:molenaar-sijtsma	Sijtsma K, Molenaar IW (1987). “Reliability of test scores in nonparametric item response theory.” _Psychometrika_, *52*(1), 79-97. doi:10.1007/BF02293957
+method:molenaar-sijtsma	Molenaar IW, Sijtsma K (1988). “Mokken's approach to reliability estimation extended to multicategory items.” _Kwantitatieve Methoden_, *9*(28), 115-126.
+method:molenaar-sijtsma	Van der Ark LA (2010). “Computation of the Molenaar Sijtsma statistic.” In _Classification as a Tool for Research_, 775-784. Springer, Berlin.
+method:monotonic-polynomial	Liang L, Browne MW (2015). “A quasi-parametric method for fitting flexible item response functions.” _Journal of Educational and Behavioral Statistics_, *40*(1), 5-34. doi:10.3102/1076998614556816
+method:monotonic-polynomial	Falk CF, Cai L (2016). “Maximum marginal likelihood estimation of a monotonic polynomial generalized partial credit model with applications to multiple group analysis.” _Psychometrika_, *81*(2), 434-460. doi:10.1007/s11336-014-9428-7
+method:monotonicity	Junker BW, Sijtsma K (2000). “Latent and manifest monotonicity in item response models.” _Applied Psychological Measurement_, *24*(1), 65-81. doi:10.1177/01466216000241004
+method:monte-carlo-em	Wei GCG, Tanner MA (1990). “A Monte Carlo implementation of the EM algorithm and the poor man's data augmentation algorithms.” _Journal of the American Statistical Association_, *85*(411), 699-704. doi:10.1080/01621459.1990.10474930
+method:moving-average	Macaulay FR (1931). _The Smoothing of Time Series_. National Bureau of Economic Research, New York.
+method:multidimensional-irt	Reckase MD (1985). “The difficulty of test items that measure more than one ability.” _Applied Psychological Measurement_, *9*(4), 401-412. doi:10.1177/014662168500900409
+method:multidimensional-irt	Bock RD, Gibbons R, Muraki E (1988). “Full-information item factor analysis.” _Applied Psychological Measurement_, *12*(3), 261-280. doi:10.1177/014662168801200305
+method:multidimensional-irt	Reckase MD (2009). _Multidimensional Item Response Theory_. Springer, New York. doi:10.1007/978-0-387-89976-3
+method:nelson-aalen	Nelson W (1972). “Theory and applications of hazard plotting for censored failure data.” _Technometrics_, *14*(4), 945-966. doi:10.1080/00401706.1972.10488991
+method:nelson-aalen	Aalen O (1978). “Nonparametric inference for a family of counting processes.” _The Annals of Statistics_, *6*(4), 701-726. doi:10.1214/aos/1176344247
+method:nominal-response	Bock RD (1972). “Estimating item parameters and latent ability when responses are scored in two or more nominal categories.” _Psychometrika_, *37*(1), 29-51. doi:10.1007/BF02291411
+method:nominal-response	Thissen D, Cai L, Bock RD (2010). “The nominal categories item response model.” In Nering ML, Ostini R (eds.), _Handbook of Polytomous Item Response Theory Models_, 43-75. Routledge, New York.
+method:oakes-information	Oakes D (1999). “Direct calculation of the information matrix via the EM algorithm.” _Journal of the Royal Statistical Society: Series B (Statistical Methodology)_, *61*(2), 479-482. doi:10.1111/1467-9868.00188
+method:oakes-information	Chalmers RP (2018). “Numerical approximation of the observed information matrix with Oakes' identity.” _British Journal of Mathematical and Statistical Psychology_, *71*(3), 415-436. doi:10.1111/bmsp.12127
+method:oblimax	Saunders DR (1961). “The rationale for an ‘oblimax’ method of transformation in factor analysis.” _Psychometrika_, *26*(3), 317-324. doi:10.1007/BF02289800
+method:oblimin	Jennrich RI, Sampson PF (1966). “Rotation for simple loadings.” _Psychometrika_, *31*(3), 313-323. doi:10.1007/BF02289465
+method:pam	Kaufman L, Rousseeuw PJ (1990). “Partitioning around medoids (Program PAM).” In _Finding Groups in Data: An Introduction to Cluster Analysis_, 68-125. John Wiley & Sons, Hoboken. doi:10.1002/9780470316801.ch2
+method:partial-autocorrelation	Levinson N (1946). “The Wiener RMS (root mean square) error criterion in filter design and prediction.” _Journal of Mathematics and Physics_, *25*(1-4), 261-278. doi:10.1002/sapm1946251261
+method:partial-autocorrelation	Durbin J (1960). “The fitting of time-series models.” _Revue de l'Institut International de Statistique_, *28*(3), 233-244. doi:10.2307/1401322
+method:partially-compensatory	Sympson JB (1978). “A model for testing with multidimensional items.” In Weiss DJ (ed.), _Proceedings of the 1977 Computerized Adaptive Testing Conference_. University of Minnesota, Minneapolis.
+method:partially-compensatory	Chalmers RP, Flora DB (2014). “Maximum-likelihood estimation of noncompensatory IRT models with the MH-RM algorithm.” _Applied Psychological Measurement_, *38*(5), 339-358. doi:10.1177/0146621614520958
+method:pearson-correlation	Pearson K (1896). “Mathematical contributions to the theory of evolution. III. Regression, heredity, and panmixia.” _Philosophical Transactions of the Royal Society of London. Series A_, *187*, 253-318. doi:10.1098/rsta.1896.0007
+method:pearson-correlation	Fisher RA (1921). “On the ‘probable error’ of a coefficient of correlation deduced from a small sample.” _Metron_, *1*(4), 3-32.
+method:percentile-bootstrap	Efron B (1979). “Bootstrap methods: another look at the jackknife.” _The Annals of Statistics_, *7*(1), 1-26. doi:10.1214/aos/1176344552
+method:percentile-bootstrap	Efron B (1981). “Nonparametric standard errors and confidence intervals.” _The Canadian Journal of Statistics_, *9*(2), 139-158. doi:10.2307/3314608
+method:periodogram	Schuster A (1898). “On the investigation of hidden periodicities with application to a supposed 26 day period of meteorological phenomena.” _Terrestrial Magnetism_, *3*(1), 13-41. doi:10.1029/TM003i001p00013
+method:periodogram	Bloomfield P (2000). _Fourier Analysis of Time Series: An Introduction_, 2nd edition. Wiley, New York. doi:10.1002/0471722235
+method:person-fit-zh	Drasgow F, Levine MV, Williams EA (1985). “Appropriateness measurement with polychotomous item response models and standardized indices.” _British Journal of Mathematical and Statistical Psychology_, *38*(1), 67-86. doi:10.1111/j.2044-8317.1985.tb00817.x
+method:person-fit-zh	Reise SP (1990). “A comparison of item- and person-fit methods of assessing model-data fit in IRT.” _Applied Psychological Measurement_, *14*(2), 127-137. doi:10.1177/014662169001400202
+method:person-separation	Fisher WP (1992). “Reliability, separation, strata statistics.” _Rasch Measurement Transactions_, *6*(3), 238.
+method:peto-peto	Peto R, Peto J (1972). “Asymptotically efficient rank invariant test procedures.” _Journal of the Royal Statistical Society. Series A (General)_, *135*(2), 185-207. doi:10.2307/2344317
+method:phillips-perron	Perron P (1988). “Trends and random walks in macroeconomic time series: Further evidence from a new approach.” _Journal of Economic Dynamics and Control_, *12*(2-3), 297-332. doi:10.1016/0165-1889(88)90043-7
+method:phillips-perron	Phillips PCB, Perron P (1988). “Testing for a unit root in time series regression.” _Biometrika_, *75*(2), 335-346. doi:10.1093/biomet/75.2.335
+method:pie-chart	Playfair W (1801). _The Statistical Breviary_. Wallis, London.
+method:pielou-evenness	Pielou EC (1966). “The measurement of diversity in different types of biological collections.” _Journal of Theoretical Biology_, *13*, 131-144. doi:10.1016/0022-5193(66)90013-0
+method:plaid	Lazzeroni L, Owen A (2002). “Plaid models for gene expression data.” _Statistica Sinica_, *12*(1), 61-86.
+method:plaid	Turner H, Bailey T, Krzanowski W (2005). “Improved biclustering of microarray data demonstrated through systematic performance tests.” _Computational Statistics & Data Analysis_, *48*(2), 235-254. doi:10.1016/j.csda.2004.02.003
+method:polychoric-correlation	Olsson U (1979). “Maximum likelihood estimation of the polychoric correlation coefficient.” _Psychometrika_, *44*(4), 443-460. doi:10.1007/BF02296207
+method:promax	Hendrickson AE, White PO (1964). “Promax: a quick method for rotation to oblique simple structure.” _British Journal of Statistical Psychology_, *17*(1), 65-70. doi:10.1111/j.2044-8317.1964.tb00244.x
+method:q3	Yen WM (1984). “Effects of local item dependence on the fit and equating performance of the three-parameter logistic model.” _Applied Psychological Measurement_, *8*(2), 125-145. doi:10.1177/014662168400800201
+method:q3	Marais I (2013). “Local dependence.” In Christensen KB, Kreiner S, Mesbah M (eds.), _Rasch Models in Health_, 111-130. ISTE, London. doi:10.1002/9781118574454.ch7
+method:q3	Christensen KB, Makransky G, Horton M (2017). “Critical values for Yen's Q3: identification of local dependence in the Rasch model using residual correlations.” _Applied Psychological Measurement_, *41*(3), 178-194. doi:10.1177/0146621616677520
+method:qq-plot	Wilk MB, Gnanadesikan R (1968). “Probability plotting methods for the analysis of data.” _Biometrika_, *55*(1), 1-17. doi:10.1093/biomet/55.1.1
+method:quartimax	Neuhaus JO, Wrigley C (1954). “The quartimax method: an analytic approach to orthogonal simple structure.” _British Journal of Statistical Psychology_, *7*(2), 81-91. doi:10.1111/j.2044-8317.1954.tb00147.x
+method:quartimin	Carroll JB (1953). “An analytical solution for approximating simple structure in factor analysis.” _Psychometrika_, *18*(1), 23-38. doi:10.1007/BF02289025
+method:ramsay-acceleration	Ramsay JO (1975). “Solving implicit equations in psychometric data analysis.” _Psychometrika_, *40*(3), 337-360. doi:10.1007/BF02291762
+method:rasch	Rasch G (1960). _Probabilistic Models for Some Intelligence and Attainment Tests_. Danish Institute for Educational Research, Copenhagen.
+method:rating-scale	Andrich D (1978). “A rating formulation for ordered response categories.” _Psychometrika_, *43*(4), 561-573. doi:10.1007/BF02293814
+method:revelle-beta	Revelle W (1979). “Hierarchical cluster analysis and the internal structure of tests.” _Multivariate Behavioral Research_, *14*(1), 57-74. doi:10.1207/s15327906mbr1401_4
+method:rmsea	Steiger JH, Lind JC (1980). “Statistically based tests for the number of common factors.” Paper presented at the annual meeting of the Psychometric Society, Iowa City.
+method:rmsea	Browne MW, Cudeck R (1993). “Alternative ways of assessing model fit.” In Bollen KA, Long JS (eds.), _Testing Structural Equation Models_, 136-162. Sage, Newbury Park.
+method:rmst	Irwin JO (1949). “The standard error of an estimate of expectation of life, with special reference to expectation of tumourless life in experiments with mice.” _The Journal of Hygiene_, *47*(2), 188-189. doi:10.1017/S0022172400014443
+method:rmst	Royston P, Parmar MKB (2013). “Restricted mean survival time: an alternative to the hazard ratio for the design and analysis of randomized trials with a time-to-event outcome.” _BMC Medical Research Methodology_, *13*, 152. doi:10.1186/1471-2288-13-152	background
+method:robust-sandwich	Lin DY, Wei LJ (1989). “The robust inference for the Cox proportional hazards model.” _Journal of the American Statistical Association_, *84*(408), 1074-1078. doi:10.1080/01621459.1989.10478874
+method:rolling-origin-cv	Tashman LJ (2000). “Out-of-sample tests of forecasting accuracy: an analysis and review.” _International Journal of Forecasting_, *16*(4), 437-450. doi:10.1016/S0169-2070(00)00065-0
+method:rolling-origin-cv	Bergmeir C, Benítez JM (2012). “On the use of cross-validation for time series predictor evaluation.” _Information Sciences_, *191*, 192-213. doi:10.1016/j.ins.2011.12.028
+method:s-x2	Orlando M, Thissen D (2000). “Likelihood-based item-fit indices for dichotomous item response theory models.” _Applied Psychological Measurement_, *24*(1), 50-64. doi:10.1177/01466216000241003
+method:s-x2	Orlando M, Thissen D (2003). “Further investigation of the performance of S-X²: an item fit index for use with dichotomous item response theory models.” _Applied Psychological Measurement_, *27*(4), 289-298. doi:10.1177/0146621603027004004
+method:s-x2	Kang T, Chen TT (2008). “Performance of the generalized S-X² item fit index for polytomous IRT models.” _Journal of Educational Measurement_, *45*(4), 391-406. doi:10.1111/j.1745-3984.2008.00071.x
+method:sample-skewness-kurtosis	Joanes DN, Gill CA (1998). “Comparing measures of sample skewness and kurtosis.” _Journal of the Royal Statistical Society: Series D (The Statistician)_, *47*(1), 183-189. doi:10.1111/1467-9884.00122
+method:scott-rule	Scott DW (1979). “On optimal and data-based histograms.” _Biometrika_, *66*(3), 605-610. doi:10.1093/biomet/66.3.605
+method:sequential-response	Tutz G (1990). “Sequential item response models with an ordered response.” _British Journal of Mathematical and Statistical Psychology_, *43*(1), 39-55. doi:10.1111/j.2044-8317.1990.tb00925.x
+method:shannon-entropy	Shannon CE (1948). “A mathematical theory of communication.” _The Bell System Technical Journal_, *27*(3), 379-423. doi:10.1002/j.1538-7305.1948.tb01338.x
+method:shapiro-francia	Shapiro SS, Francia RS (1972). “An approximate analysis of variance test for normality.” _Journal of the American Statistical Association_, *67*(337), 215-216. doi:10.1080/01621459.1972.10481232
+method:shapiro-francia	Royston P (1993). “A pocket-calculator algorithm for the Shapiro-Francia test for non-normality: an application to medicine.” _Statistics in Medicine_, *12*(2), 181-184. doi:10.1002/sim.4780120209
+method:shapiro-wilk	Shapiro SS, Wilk MB (1965). “An analysis of variance test for normality (complete samples).” _Biometrika_, *52*(3-4), 591-611. doi:10.1093/biomet/52.3-4.591
+method:shapiro-wilk	Royston JP (1982). “Algorithm AS 181: The W test for normality.” _Journal of the Royal Statistical Society. Series C (Applied Statistics)_, *31*(2), 176-180. doi:10.2307/2347986	background
+method:shapiro-wilk	Royston P (1995). “Remark AS R94: A remark on Algorithm AS 181: The W-test for normality.” _Journal of the Royal Statistical Society. Series C (Applied Statistics)_, *44*(4), 547-551. doi:10.2307/2986146
+method:silhouette	Rousseeuw PJ (1987). “Silhouettes: a graphical aid to the interpretation and validation of cluster analysis.” _Journal of Computational and Applied Mathematics_, *20*, 53-65. doi:10.1016/0377-0427(87)90125-7
+method:simple-exponential-smoothing	Brown RG (1959). _Statistical Forecasting for Inventory Control_. McGraw-Hill, New York.
+method:simple-exponential-smoothing	Gardner ES (1985). “Exponential smoothing: the state of the art.” _Journal of Forecasting_, *4*(1), 1-28. doi:10.1002/for.3980040103
+method:simplimax	Kiers HAL (1994). “Simplimax: oblique rotation to an optimal target with simple structure.” _Psychometrika_, *59*(4), 567-579. doi:10.1007/BF02294392
+method:single-linkage	Sneath PHA (1957). “The application of computers to taxonomy.” _Journal of General Microbiology_, *17*(1), 201-226. doi:10.1099/00221287-17-1-201
+method:skewness-kurtosis-se	Cramér H (1946). _Mathematical Methods of Statistics_. Princeton University Press, Princeton.
+method:spearman-correlation	Spearman C (1904). “The proof and measurement of association between two things.” _The American Journal of Psychology_, *15*(1), 72-101. doi:10.2307/1412159
+method:spearman-correlation	Bonett DG, Wright TA (2000). “Sample size requirements for estimating Pearson, Kendall and Spearman correlations.” _Psychometrika_, *65*(1), 23-28. doi:10.1007/BF02294183
+method:spectral-biclustering	Kluger Y, Basri R, Chang JT, Gerstein M (2003). “Spectral biclustering of microarray data: coclustering genes and conditions.” _Genome Research_, *13*(4), 703-716. doi:10.1101/gr.648603
+method:spline-irt	Winsberg S, Thissen D, Wainer H (1984). “Fitting item characteristic curves with spline functions.” _ETS Research Report Series_, *1984*(2). doi:10.1002/j.2330-8516.1984.tb00080.x
+method:spline-irt	Ramsay JO, Winsberg S (1991). “Maximum marginal likelihood estimation for semiparametric item analysis.” _Psychometrika_, *56*(3), 365-379. doi:10.1007/BF02294480
+method:split-half	Spearman C (1910). “Correlation calculated from faulty data.” _British Journal of Psychology_, *3*(3), 271-295. doi:10.1111/j.2044-8295.1910.tb00206.x	background
+method:split-half	Brown W (1910). “Some experimental results in the correlation of mental abilities.” _British Journal of Psychology_, *3*(3), 296-322. doi:10.1111/j.2044-8295.1910.tb00207.x	background
+method:split-half	Rulon PJ (1939). “A simplified procedure for determining the reliability of a test by split-halves.” _Harvard Educational Review_, *9*, 99-103.
+method:squarem	Varadhan R, Roland C (2008). “Simple and globally convergent methods for accelerating the convergence of any EM algorithm.” _Scandinavian Journal of Statistics_, *35*(2), 335-353. doi:10.1111/j.1467-9469.2007.00585.x
+method:srmr	Maydeu-Olivares A (2013). “Goodness-of-fit assessment of item response theory models.” _Measurement: Interdisciplinary Research and Perspectives_, *11*(3), 71-101. doi:10.1080/15366367.2013.831680
+method:standard-error-of-measurement	Weir JP (2005). “Quantifying test-retest reliability using the intraclass correlation coefficient and the SEM.” _Journal of Strength and Conditioning Research_, *19*(1), 231-240. doi:10.1519/15184.1
+method:standard-error-of-measurement	de Vet HCW, Terwee CB, Knol DL, Bouter LM (2006). “When to use agreement versus reliability measures.” _Journal of Clinical Epidemiology_, *59*(10), 1033-1039. doi:10.1016/j.jclinepi.2005.10.015
+method:stl	Cleveland RB, Cleveland WS, McRae JE, Terpenning I (1990). “STL: A seasonal-trend decomposition procedure based on loess.” _Journal of Official Statistics_, *6*(1), 3-73.
+method:sturges	Sturges HA (1926). “The choice of a class interval.” _Journal of the American Statistical Association_, *21*(153), 65-66. doi:10.1080/01621459.1926.10502161
+method:super-smoother	Friedman JH (1984). _A Variable Span Smoother_. Technical Report LCS 05, Department of Statistics, Stanford University.
+method:tandem-criteria	Comrey AL (1967). “Tandem criteria for analytic rotation in factor analysis.” _Psychometrika_, *32*(2), 143-154. doi:10.1007/BF02289422
+method:theta	Assimakopoulos V, Nikolopoulos K (2000). “The theta model: a decomposition approach to forecasting.” _International Journal of Forecasting_, *16*(4), 521-530. doi:10.1016/S0169-2070(00)00066-2
+method:theta	Hyndman RJ, Billah B (2003). “Unmasking the Theta method.” _International Journal of Forecasting_, *19*(2), 287-290. doi:10.1016/S0169-2070(01)00143-1
+method:tli	Tucker LR, Lewis C (1973). “A reliability coefficient for maximum likelihood factor analysis.” _Psychometrika_, *38*(1), 1-10. doi:10.1007/BF02291170
+method:tli	Bentler PM, Bonett DG (1980). “Significance tests and goodness of fit in the analysis of covariance structures.” _Psychological Bulletin_, *88*(3), 588-606. doi:10.1037/0033-2909.88.3.588
+method:trend-seasonal-strength	Wang X, Smith KA, Hyndman RJ (2006). “Characteristic-based clustering for time series data.” _Data Mining and Knowledge Discovery_, *13*(3), 335-364. doi:10.1007/s10618-005-0039-x
+method:trimmed-mean-ci	Tukey JW, McLaughlin DH (1963). “Less vulnerable confidence and significance procedures for location based on a single sample: Trimming/Winsorization 1.” _Sankhyā: The Indian Journal of Statistics, Series A_, *25*(3), 331-352.
+method:trimmed-mean-ci	Yuen KK (1974). “The two-sample trimmed t for unequal population variances.” _Biometrika_, *61*(1), 165-170. doi:10.1093/biomet/61.1.165
+method:tukey-fences	Tukey JW (1977). _Exploratory Data Analysis_. Addison-Wesley, Reading, MA.
+method:turnbull	Turnbull BW (1976). “The empirical distribution function with arbitrarily grouped, censored and truncated data.” _Journal of the Royal Statistical Society. Series B (Methodological)_, *38*(3), 290-295. doi:10.1111/j.2517-6161.1976.tb01597.x
+method:unidimensionality-eigenvalue-ratio	Reckase MD (1979). “Unifactor latent trait models applied to multifactor tests: Results and implications.” _Journal of Educational Statistics_, *4*(3), 207-230. doi:10.3102/10769986004003207
+method:varimax	Kaiser HF (1958). “The varimax criterion for analytic rotation in factor analysis.” _Psychometrika_, *23*(3), 187-200. doi:10.1007/BF02289233
+method:violin-plot	Hintze JL, Nelson RD (1998). “Violin plots: a box plot-density trace synergism.” _The American Statistician_, *52*(2), 181-184. doi:10.1080/00031305.1998.10480559
+method:ward-linkage	Ward JH (1963). “Hierarchical grouping to optimize an objective function.” _Journal of the American Statistical Association_, *58*(301), 236-244. doi:10.1080/01621459.1963.10500845
+method:ward-linkage	Murtagh F, Legendre P (2014). “Ward's hierarchical agglomerative clustering method: which algorithms implement Ward's criterion?” _Journal of Classification_, *31*(3), 274-295. doi:10.1007/s00357-014-9161-z
+method:wilson-score-interval	Wilson EB (1927). “Probable inference, the law of succession, and statistical inference.” _Journal of the American Statistical Association_, *22*(158), 209-212. doi:10.1080/01621459.1927.10502953
+method:winsorized-sd	Tukey JW (1962). “The future of data analysis.” _The Annals of Mathematical Statistics_, *33*(1), 1-67. doi:10.1214/aoms/1177704711
+method:winsorized-sd	Dixon WJ, Tukey JW (1968). “Approximate behavior of the distribution of Winsorized t (trimming/Winsorization 2).” _Technometrics_, *10*(1), 83-98. doi:10.1080/00401706.1968.10490537
+method:wle	Warm TA (1989). “Weighted likelihood estimation of ability in item response theory.” _Psychometrika_, *54*(3), 427-450. doi:10.1007/BF02294627
+method:wright-map	Wright BD, Stone MH (1979). _Best Test Design_. MESA Press, Chicago.
+method:wright-map	Wilson M (2005). _Constructing Measures: An Item Response Modeling Approach_. Lawrence Erlbaum Associates, Mahwah.
+mirt	Chalmers P (2026). _mirt: Multidimensional Item Response Theory_. doi:10.32614/CRAN.package.mirt <https://doi.org/10.32614/CRAN.package.mirt>. R package version {version}.
+mokken	van der Ark L, Koopman L (2024). _mokken: Conducts Mokken Scale Analysis_. doi:10.32614/CRAN.package.mokken <https://doi.org/10.32614/CRAN.package.mokken>. R package version {version}.
+moments	Komsta L, Novomestky F (2022). _moments: Moments, Cumulants, Skewness, Kurtosis and Related Tests_. doi:10.32614/CRAN.package.moments <https://doi.org/10.32614/CRAN.package.moments>. R package version {version}.
+mpath	Wang Z (2024). _mpath: Regularized Linear Models_. R package version {version}, <https://CRAN.R-project.org/package=mpath>.
+mvtnorm	Genz A, Bretz F, Miwa T, Mi X, Hothorn T (2023). _mvtnorm: Multivariate Normal and t Distributions_. doi:10.32614/CRAN.package.mvtnorm <https://doi.org/10.32614/CRAN.package.mvtnorm>. R package version {version}.
+nnet	Ripley B (2025). _nnet: Feed-Forward Neural Networks and Multinomial Log-Linear Models_. doi:10.32614/CRAN.package.nnet <https://doi.org/10.32614/CRAN.package.nnet>. R package version {version}.
+nortest	Gross J, Ligges U (2015). _nortest: Tests for Normality_. doi:10.32614/CRAN.package.nortest <https://doi.org/10.32614/CRAN.package.nortest>. R package version {version}.
+onewaytests	Dag O, Kasikci M, Dolgun A, Konar NM, Weerahandi S, Ananda M, Sulekli HE (2025). _onewaytests: One-Way Tests in Independent Groups Designs_. doi:10.32614/CRAN.package.onewaytests <https://doi.org/10.32614/CRAN.package.onewaytests>. R package version {version}.
+ordinalNet	Wurm M, Rathouz P, Hanlon B (2026). _ordinalNet: Penalized Ordinal Regression_. doi:10.32614/CRAN.package.ordinalNet <https://doi.org/10.32614/CRAN.package.ordinalNet>. R package version {version}.
+pROC	Robin X, Turck N, Hainard A, Tiberti N, Lisacek F, Sanchez J, Müller M (2025). _pROC: Display and Analyze ROC Curves_. doi:10.32614/CRAN.package.pROC <https://doi.org/10.32614/CRAN.package.pROC>. R package version {version}.
+paper:GPArotation	Bernaards CA, Jennrich RI (2005). “Gradient projection algorithms and software for arbitrary rotation criteria in factor analysis.” _Educational and Psychological Measurement_, *65*(5), 676-696. doi:10.1177/0013164404272507
+paper:d3	Bostock M, Ogievetsky V, Heer J (2011). “D³: Data-Driven Documents.” _IEEE Transactions on Visualization and Computer Graphics_, *17*(12), 2301-2309. doi:10.1109/TVCG.2011.185
+paper:eha	Broström G (2022). _Event History Analysis with R_, 2nd edition. Chapman and Hall/CRC, Boca Raton. doi:10.1201/9780429503764
+paper:forecast	Hyndman RJ, Khandakar Y (2008). “Automatic time series forecasting: the forecast package for R.” _Journal of Statistical Software_, *27*(3), 1-22. doi:10.18637/jss.v027.i03 <https://doi.org/10.18637/jss.v027.i03>.
+paper:icenReg	Anderson-Bergman C (2017). “icenReg: Regression Models for Interval Censored Data in R.” _Journal of Statistical Software_, *81*(12), 1-23. doi:10.18637/jss.v081.i12
+paper:lme4	Bates D, Mächler M, Bolker B, Walker S (2015). “Fitting Linear Mixed-Effects Models Using lme4.” _Journal of Statistical Software_, *67*(1), 1-48. doi:10.18637/jss.v067.i01 <https://doi.org/10.18637/jss.v067.i01>.
+paper:mirt	Chalmers RP (2012). “mirt: A Multidimensional Item Response Theory Package for the R Environment.” _Journal of Statistical Software_, *48*(6), 1-29. doi:10.18637/jss.v048.i06 <https://doi.org/10.18637/jss.v048.i06>.
+paper:mokken	Van der Ark LA (2007). “Mokken Scale Analysis in R.” _Journal of Statistical Software_, *20*(11), 1-19. doi:10.18637/jss.v020.i11 <https://doi.org/10.18637/jss.v020.i11>.
+paper:mokken	Van der Ark LA (2012). “New Developments in Mokken Scale Analysis in R.” _Journal of Statistical Software_, *48*(5), 1-27. doi:10.18637/jss.v048.i05 <https://doi.org/10.18637/jss.v048.i05>.
+paper:strucchange	Zeileis A, Leisch F, Hornik K, Kleiber C (2002). “strucchange: An R Package for Testing for Structural Change in Linear Regression Models.” _Journal of Statistical Software_, *7*(2), 1-38. doi:10.18637/jss.v007.i02 <https://doi.org/10.18637/jss.v007.i02>.
+paper:strucchange	Zeileis A, Kleiber C, Krämer W, Hornik K (2003). “Testing and Dating of Structural Changes in Practice.” _Computational Statistics & Data Analysis_, *44*(1-2), 109-123. doi:10.1016/S0167-9473(03)00030-6
+polycor	Fox J (2025). _polycor: Polychoric and Polyserial Correlations_. doi:10.32614/CRAN.package.polycor <https://doi.org/10.32614/CRAN.package.polycor>. R package version {version}.
+ppcor	Kim S (2015). _ppcor: Partial and Semi-Partial (Part) Correlation_. doi:10.32614/CRAN.package.ppcor <https://doi.org/10.32614/CRAN.package.ppcor>. R package version {version}.
+psych	Revelle W (2026). _psych: Procedures for Psychological, Psychometric, and Personality Research_. Northwestern University, Evanston, Illinois. R package version {version}, <https://CRAN.R-project.org/package=psych>.
+pwr	Champely S (2020). _pwr: Basic Functions for Power Analysis_. doi:10.32614/CRAN.package.pwr <https://doi.org/10.32614/CRAN.package.pwr>. R package version {version}.
+ref:birnbaum-1968	Birnbaum A (1968). “Some latent trait models and their use in inferring an examinee's ability.” In Lord FM, Novick MR, _Statistical Theories of Mental Test Scores_, 397-479. Addison-Wesley, Reading.
+ref:box-jenkins-1970	Box GEP, Jenkins GM (1970). _Time Series Analysis: Forecasting and Control_. Holden-Day, San Francisco.
+ref:browne-2001	Browne MW (2001). “An overview of analytic rotation in exploratory factor analysis.” _Multivariate Behavioral Research_, *36*(1), 111-150. doi:10.1207/s15327906mbr3601_05
+ref:cox-1972	Cox DR (1972). “Regression models and life-tables.” _Journal of the Royal Statistical Society. Series B (Methodological)_, *34*(2), 187-202. doi:10.1111/j.2517-6161.1972.tb00899.x
+ref:efron-tibshirani-1993	Efron B, Tibshirani RJ (1993). _An Introduction to the Bootstrap_. Chapman & Hall, New York. doi:10.1007/978-1-4899-4541-9
+ref:gower-1967	Gower JC (1967). “A comparison of some methods of cluster analysis.” _Biometrics_, *23*(4), 623-637. doi:10.2307/2528417
+ref:hyndman-athanasopoulos-2021	Hyndman RJ, Athanasopoulos G (2021). _Forecasting: Principles and Practice_, 3rd edition. OTexts, Melbourne. <https://OTexts.com/fpp3>
+ref:kalbfleisch-prentice-2002	Kalbfleisch JD, Prentice RL (2002). _The Statistical Analysis of Failure Time Data_, 2nd edition. Wiley, Hoboken. doi:10.1002/9781118032985
+ref:lord-1980	Lord FM (1980). _Applications of Item Response Theory to Practical Testing Problems_. Lawrence Erlbaum Associates, Hillsdale.
+ref:mokken-1971	Mokken RJ (1971). _A Theory and Procedure of Scale Analysis: With Applications in Political Research_. De Gruyter, Berlin.
+ref:revelle-condon-2019	Revelle W, Condon DM (2019). “Reliability from α to ω: a tutorial.” _Psychological Assessment_, *31*(12), 1395-1411. doi:10.1037/pas0000754
+ref:simes-1986	Simes RJ (1986). “An improved Bonferroni procedure for multiple tests of significance.” _Biometrika_, *73*(3), 751-754. doi:10.1093/biomet/73.3.751
+ref:sokal-michener-1958	Sokal RR, Michener CD (1958). “A statistical method for evaluating systematic relationships.” _University of Kansas Science Bulletin_, *38*, 1409-1438.
+ref:therneau-grambsch-2000	Therneau TM, Grambsch PM (2000). _Modeling Survival Data: Extending the Cox Model_. Springer, New York. doi:10.1007/978-1-4757-3294-8
+ref:wellner-1997	Wellner JA, Zhan Y (1997). “A hybrid algorithm for computation of the nonparametric maximum likelihood estimator from censored data.” _Journal of the American Statistical Association_, *92*(439), 945-959. doi:10.1080/01621459.1997.10474049
+ref:wright-masters-1982	Wright BD, Masters GN (1982). _Rating Scale Analysis_. MESA Press, Chicago.
+ref:zinbarg-2005	Zinbarg RE, Revelle W, Yovel I, Li W (2005). “Cronbach's α, Revelle's β, and McDonald's ωH: their relations with each other and two alternative conceptualizations of reliability.” _Psychometrika_, *70*(1), 123-133. doi:10.1007/s11336-003-0974-7
+sandwich	Zeileis A, Lumley T (2026). _sandwich: Robust Covariance Matrix Estimators_. R package version {version}, <https://sandwich.R-Forge.R-project.org/>.
+semTools	Jorgensen TD, Pornprasertmanit S, Schoemann AM, Rosseel Y (2026). _semTools: Useful tools for structural equation modeling_. R package version {version}, <https://CRAN.R-project.org/package=semTools>.
+strucchange	Zeileis A, Leisch F, Hornik K, Kleiber C (2024). _strucchange: Testing, Monitoring, and Dating Structural Changes_. doi:10.32614/CRAN.package.strucchange <https://doi.org/10.32614/CRAN.package.strucchange>. R package version {version}.
+survival	Therneau T (2026). _A Package for Survival Analysis in R_. R package version {version}, <https://CRAN.R-project.org/package=survival>.
+tidyr	Wickham H, Vaughan D, Girlich M (2025). _tidyr: Tidy Messy Data_. doi:10.32614/CRAN.package.tidyr <https://doi.org/10.32614/CRAN.package.tidyr>. R package version {version}.
+tseries	Trapletti A, Hornik K (2026). _tseries: Time Series Analysis and Computational Finance_. doi:10.32614/CRAN.package.tseries <https://doi.org/10.32614/CRAN.package.tseries>. R package version {version}.
+# Vendored: the version below is the release tag the bundle ships from, and no runtime source agrees with it (webR.version says 0.5.10-dev, the webr R package says 0.5.9.9000). A WebR upgrade means editing it here AND moving the <Rver> segment of the PACKAGES path `refs --check` reads.
+webr	Stagg G, Henry L (2026). _webr: WebR Support Package_. R package version 0.6.0, <https://github.com/r-wasm/webr>.
+# Comment to ensure the last entry gets a trailing newline – the parser only sees lines ending in \n.

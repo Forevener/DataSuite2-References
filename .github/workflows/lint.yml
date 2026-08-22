@@ -1,0 +1,19 @@
+name: Check the corpus
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: The checker still catches what it is meant to
+        run: node lint.test.mjs
+      - name: The corpus is well-formed
+        run: node lint.mjs
