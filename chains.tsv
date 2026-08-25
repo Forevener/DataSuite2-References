@@ -10,11 +10,19 @@ method:autocorrelation-function	ref:box-jenkins-1970
 method:average-linkage	ref:sokal-michener-1958
 method:bca-bootstrap	ref:efron-tibshirani-1993	background
 method:benjamini-yekutieli	method:benjamini-hochberg
+method:biserial-correlation	method:polyserial-correlation
 method:centroid-linkage	ref:sokal-michener-1958
 method:centroid-linkage	ref:gower-1967
 method:cox-regression	ref:cox-1972
+method:cramers-v	ref:cramer-1946
+method:cramers-v	ref:pearson-1900	background
 method:cumulative-incidence	ref:kalbfleisch-prentice-2002	background
 method:geomin	ref:browne-2001	background
+method:goodman-kruskal-gamma	ref:agresti-2002	background
+method:hittner-overlapping-z	ref:dunn-clark-1969	background
+method:hittner-overlapping-z	ref:olkin-1967	background
+method:hittner-overlapping-z	ref:silver-dunlap-1987	background
+method:hittner-overlapping-z	ref:steiger-1980	background
 method:hochberg	ref:simes-1986
 method:holt-winters	method:holt-linear-trend
 method:hommel	ref:simes-1986
@@ -23,6 +31,7 @@ method:infomax-rotation	ref:browne-2001
 method:interval-censored-cox	ref:cox-1972	background
 method:interval-censored-cox	ref:wellner-1997	background
 method:irt-true-score-equating	ref:lord-1980
+method:kernel-density-estimation	ref:silverman-1986
 method:mase	ref:hyndman-athanasopoulos-2021	background
 method:mcdonald-omega	ref:revelle-condon-2019	background
 method:mcdonald-omega	ref:zinbarg-2005
@@ -32,11 +41,30 @@ method:mokken	ref:mokken-1971
 method:monotonicity	ref:mokken-1971	background
 method:moving-average	ref:hyndman-athanasopoulos-2021	background
 method:naive-forecast	ref:hyndman-athanasopoulos-2021
+method:pam	ref:kaufman-rousseeuw-1990
+method:partial-correlation	ref:wilcox-2009	background
+method:pearson-correlation	method:fisher-z-transformation
 method:percentile-bootstrap	ref:efron-tibshirani-1993	background
 method:person-separation	ref:wright-masters-1982
+method:phi-coefficient	ref:pearson-1900	background
 method:revelle-beta	ref:zinbarg-2005
+method:semi-partial-correlation	method:partial-correlation
+method:silhouette	ref:kaufman-rousseeuw-1990	background
+method:silver-nonoverlapping-z	ref:dunn-clark-1969	background
+method:silver-nonoverlapping-z	ref:olkin-siotani-1976	background
+method:silver-nonoverlapping-z	ref:silver-dunlap-1987	background
+method:silver-nonoverlapping-z	ref:steiger-1980	background
+method:skewness-kurtosis-se	ref:cramer-1946
+method:somers-d	ref:agresti-2002	background
 method:split-half	ref:revelle-condon-2019	background
+method:steiger-nonoverlapping-z	ref:dunn-clark-1969	background
+method:steiger-nonoverlapping-z	ref:olkin-siotani-1976
+method:steiger-nonoverlapping-z	ref:steiger-1980
+method:steiger-pattern-equality	ref:olkin-siotani-1976
+method:steiger-pattern-equality	ref:steiger-1980
 method:time-varying-coefficients	ref:therneau-grambsch-2000
 method:turnbull	ref:wellner-1997
+method:williams-t2	ref:olkin-1967
+method:williams-t2	ref:steiger-1980
 paper:survival	ref:therneau-grambsch-2000
 # Comment to ensure the last entry gets a trailing newline – the parser only sees lines ending in \n.
