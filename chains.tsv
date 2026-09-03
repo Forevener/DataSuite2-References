@@ -4,51 +4,129 @@ method:3pl	ref:birnbaum-1968
 method:3pl	ref:lord-1980	background
 method:aft	ref:kalbfleisch-prentice-2002	background
 method:aisp	ref:mokken-1971
+method:akaike-weights	ref:burnham-anderson-2002
+method:ancova	ref:fisher-1925	background
+method:anderson-darling-k-sample	method:anderson-darling	background
+method:anderson-rubin-factor-scores	ref:grice-2001	background
 method:arima	ref:box-jenkins-1970
+method:auc	ref:hanley-mcneil-1982
 method:auto-arima	paper:forecast
 method:autocorrelation-function	ref:box-jenkins-1970
 method:average-linkage	ref:sokal-michener-1958
+method:bartlett-factor-scores	ref:grice-2001	background
 method:bca-bootstrap	ref:efron-tibshirani-1993	background
 method:benjamini-yekutieli	method:benjamini-hochberg
+method:bifactor-indices	ref:reise-bonifay-haviland-2013	background
+method:binomial-test	ref:conover-1999
 method:biserial-correlation	method:polyserial-correlation
 method:centroid-linkage	ref:sokal-michener-1958
 method:centroid-linkage	ref:gower-1967
+method:cfi	ref:hu-bentler-1999	background
+method:chi-square-goodness-of-fit	ref:pearson-1900
+method:chi-square-independence	ref:pearson-1900
+method:cochran-armitage	ref:cochran-1954
+method:cochran-expected-counts	ref:cochran-1954
+method:cochran-mantel-haenszel	ref:cochran-1954
+method:cohens-d	method:cohen-benchmarks
+method:cohens-d-av	ref:lakens-2013
+method:cohens-dz	ref:lakens-2013
+method:cohens-g	method:cohen-benchmarks
+method:cohens-h	method:cohen-benchmarks
+method:cohens-w	method:cohen-benchmarks
+method:common-language-effect-size	ref:hanley-mcneil-1982	background
+method:conover-friedman	ref:conover-1999
+method:correlation-ratio	ref:fisher-1925	background
+method:covariance-structure-gls	ref:browne-1974
+method:covratio	method:dffits
 method:cox-regression	ref:cox-1972
+method:cox-snell-r2	ref:cox-snell-1989
 method:cramers-v	ref:cramer-1946
 method:cramers-v	ref:pearson-1900	background
+method:cramers-v-bias-corrected	ref:cramer-1946
+method:cramers-v-bias-corrected	ref:pearson-1900	background
 method:cumulative-incidence	ref:kalbfleisch-prentice-2002	background
+method:d-separation-test	ref:fisher-1925	background
+method:dagostino-pearson	ref:dagostino-1970
+method:efa-benchmarks	ref:gorsuch-1983
+method:elastic-net	method:lasso	background
+method:elastic-net	method:ridge-regression	background
+method:exact-mantel-haenszel	ref:agresti-2002	background
+method:explanatory-measure	paper:WRS2
+method:f-test-variances	ref:fisher-1925
+method:factor-determinacy	ref:gorsuch-1983
+method:factor-determinacy	ref:grice-2001
+method:factorial-anova	ref:fisher-1925
+method:fisher-z-homogeneity	ref:hedges-olkin-1985
+method:generalized-eta-squared	ref:olejnik-algina-2003
 method:geomin	ref:browne-2001	background
+method:gfi	ref:hu-bentler-1999	background
+method:glass-delta	ref:hedges-olkin-1985	background
 method:goodman-kruskal-gamma	ref:agresti-2002	background
+method:greenhouse-geisser	ref:box-1954	background
+method:greenhouse-geisser	ref:girden-1992	background
 method:hittner-overlapping-z	ref:dunn-clark-1969	background
 method:hittner-overlapping-z	ref:olkin-1967	background
 method:hittner-overlapping-z	ref:silver-dunlap-1987	background
 method:hittner-overlapping-z	ref:steiger-1980	background
 method:hochberg	ref:simes-1986
+method:hodges-lehmann	ref:wilcoxon-1945
 method:holt-winters	method:holt-linear-trend
 method:hommel	ref:simes-1986
+method:huynh-feldt	ref:box-1954	background
+method:huynh-feldt	ref:girden-1992	background
+method:ifi	ref:hu-bentler-1999	background
 method:infit-outfit	ref:wright-masters-1982
 method:infomax-rotation	ref:browne-2001
 method:interval-censored-cox	ref:cox-1972	background
 method:interval-censored-cox	ref:wellner-1997	background
 method:irt-true-score-equating	ref:lord-1980
+method:jonckheere-terpstra	ref:kendall-1945	background
+method:kaiser-normalization	ref:kaiser-1958
+method:kendall-tau	ref:kendall-1945
 method:kernel-density-estimation	ref:silverman-1986
+method:levene-test	ref:brown-forsythe-1974
+method:mann-whitney-u	ref:wilcoxon-1945
 method:mase	ref:hyndman-athanasopoulos-2021	background
 method:mcdonald-omega	ref:revelle-condon-2019	background
 method:mcdonald-omega	ref:zinbarg-2005
 method:median-linkage	ref:gower-1967
+method:mixed-anova	ref:fisher-1925	background
 method:mle-scoring	ref:birnbaum-1968
+method:model-averaging	ref:burnham-anderson-2002	background
+method:modification-index	ref:sorbom-1989
 method:mokken	ref:mokken-1971
 method:monotonicity	ref:mokken-1971	background
 method:moving-average	ref:hyndman-athanasopoulos-2021	background
+method:nagelkerke-r2	ref:cox-snell-1989	background
 method:naive-forecast	ref:hyndman-athanasopoulos-2021
+method:negative-binomial-regression	ref:nelder-wedderburn-1972	background
+method:nfi	ref:bentler-bonett-1980
+method:nfi	ref:hu-bentler-1999	background
+method:omega-hierarchical	ref:reise-bonifay-haviland-2013
+method:omega-hierarchical	ref:zinbarg-2005
+method:one-way-anova	ref:fisher-1925
+method:page-r	ref:spearman-1904
 method:pam	ref:kaufman-rousseeuw-1990
 method:partial-correlation	ref:wilcox-2009	background
+method:partial-omega-squared	method:omega-squared
+method:partial-omega-squared	ref:olejnik-algina-2003	background
 method:pearson-correlation	method:fisher-z-transformation
 method:percentile-bootstrap	ref:efron-tibshirani-1993	background
 method:person-separation	ref:wright-masters-1982
 method:phi-coefficient	ref:pearson-1900	background
+method:poisson-regression	ref:nelder-wedderburn-1972
+method:rank-biserial-correlation	ref:kerby-2014
+method:rank-epsilon-squared	ref:tomczak-tomczak-2014
+method:rank-eta-squared	ref:tomczak-tomczak-2014
+method:repeated-measures-anova	ref:fisher-1925
 method:revelle-beta	ref:zinbarg-2005
+method:rfi	ref:hu-bentler-1999	background
+method:rmsea	ref:hu-bentler-1999	background
+method:rmsea	ref:kenny-kaneko-mccoach-2015
+method:score-test	ref:sorbom-1989
 method:semi-partial-correlation	method:partial-correlation
+method:sign-test	ref:conover-1999
+method:sign-test-r	ref:kerby-2014
 method:silhouette	ref:kaufman-rousseeuw-1990	background
 method:silver-nonoverlapping-z	ref:dunn-clark-1969	background
 method:silver-nonoverlapping-z	ref:olkin-siotani-1976	background
@@ -56,15 +134,35 @@ method:silver-nonoverlapping-z	ref:silver-dunlap-1987	background
 method:silver-nonoverlapping-z	ref:steiger-1980	background
 method:skewness-kurtosis-se	ref:cramer-1946
 method:somers-d	ref:agresti-2002	background
+method:spearman-correlation	ref:spearman-1904
 method:split-half	ref:revelle-condon-2019	background
+method:srmr	ref:hu-bentler-1999
 method:steiger-nonoverlapping-z	ref:dunn-clark-1969	background
 method:steiger-nonoverlapping-z	ref:olkin-siotani-1976
 method:steiger-nonoverlapping-z	ref:steiger-1980
 method:steiger-pattern-equality	ref:olkin-siotani-1976
 method:steiger-pattern-equality	ref:steiger-1980
+method:stuart-maxwell	ref:agresti-2002	background
+method:ten-berge-factor-scores	ref:grice-2001	background
+method:thurstone-factor-scores	ref:grice-2001	background
 method:time-varying-coefficients	ref:therneau-grambsch-2000
+method:tli	ref:bentler-bonett-1980
+method:tli	ref:hu-bentler-1999	background
 method:turnbull	ref:wellner-1997
+method:type-i-sums-of-squares	ref:fisher-1925
+method:type-i-sums-of-squares	ref:speed-1978	background
+method:type-ii-sums-of-squares	ref:speed-1978	background
+method:type-iii-sums-of-squares	ref:speed-1978
+method:varimax	ref:kaiser-1958
+method:welchs-g	method:hedges-g	background
+method:welchs-g	method:welchs-d
+method:wilcoxon-r	ref:rosenthal-1991
+method:wilcoxon-signed-rank	ref:wilcoxon-1945
 method:williams-t2	ref:olkin-1967
 method:williams-t2	ref:steiger-1980
+method:wls-factor-analysis	ref:browne-1974
+method:zero-inflated-negative-binomial	method:zero-inflated-poisson	background
+paper:MASS	ref:venables-ripley-2002
+paper:nnet	ref:venables-ripley-2002
 paper:survival	ref:therneau-grambsch-2000
 # Comment to ensure the last entry gets a trailing newline – the parser only sees lines ending in \n.
